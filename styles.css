@@ -1,0 +1,53 @@
+
+body, html {
+  height: 100%;
+}
+body {
+  background-color: #fafdee;
+  margin: 0 auto;
+}
+.jumbotron{
+  background-color: transparent !important;
+  background-size: cover;
+  width: 100%
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 100px !important;
+  color: #233237 !important;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 25px !important;
+  color: #984B43;
+  margin: 10px 0 10px 0;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: #984B43;
+}
+p{
+  font-family: 'Hind', sans-serif;
+  text-align: left;
+  font-size: 25px;
+  color: #233237;
+}
+.row {
+   width: 1200px;
+   height: 700px;
+   margin: 10px 0 40px 0;
+
+}
+img{
+  width: 600px;
+  height: 600px;
+}
+.col-md-6{
+  width: 600px;
+}
