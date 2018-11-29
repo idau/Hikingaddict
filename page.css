@@ -1,7 +1,7 @@
 
 body {
-  font-family:'montserrat', sans-serif;
-  background: darkseagreen;
+  font-family: 'Montserrat', sans-serif;
+background:#7DA3A1;
 }
 h1 {
   font-size: 75px;
@@ -66,7 +66,7 @@ textarea {
 }
 .nav-link{ margin-right: 1em !important;}
 .navbar-collapse{ justify-content: flex-end;}
-.navbar-toggler{  background:#fff !important;
+
 }
 .navbar-collapse{
  justify-content: flex-end;
@@ -81,6 +81,7 @@ label {
 font-size: 15px;
 text-align:left;
 margin-bottom:.5rem;
+
 }
 
 .button {
@@ -92,7 +93,7 @@ margin-bottom:.5rem;
 
 }
 .contactform {
-  background: rgba(255,255,255,0.2);
+background: rgba(255, 255, 255, 0.6);
   padding:30px;
   margin-top:60px;
   text-align: center;
@@ -100,6 +101,7 @@ margin-bottom:.5rem;
 .form-group {
   padding-right: 29px;
   padding-left: 29px;
+
 }
 .intro {
   font-size:25px;
@@ -112,4 +114,8 @@ border-radius:16px 16px 16px 16px;
   text-align:center;
   position:relative;
   color:white;
+}
+.navbar {
+  background-color: #34675C;
+
 }
