@@ -1,7 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background:#fafdee;
-  color:#283018;
+  background:rgb(234, 198, 122);;
+  color:rgb(35, 50, 55);
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
   padding-bottom: 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 75px !important;
-  color: #233237 !important;
+  color: rgb(35, 50, 55) !important;
   }
 h2{
   font-family: 'Montserrat', sans-serif;

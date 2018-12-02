@@ -1,12 +1,12 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background:#fafdee;
+  background:rgb(234, 198, 122);
 }
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 75px !important;
-  color: #233237 !important;
+  color: rgb(35, 50, 55) !important;
   font-weight: bold;
   margin: 40px 0 0 0;
   display:block;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  color: #233237 !important;
+  color: #984B43 !important;
   padding-bottom: 20px;
 }
 .container {
@@ -98,7 +98,7 @@ textarea {
   color: #233237 !important;
 }
 P.blocktext {
-  color: #233237 !important;
+  color: rgb(35, 50, 55) !important;
   margin-left:100px;
   margin-right:100px;
   font-size: 20px;
@@ -112,7 +112,7 @@ margin-bottom:.5rem;
 }
 
 .button {
-  background: #556B2F;
+  background-color: rgb(234, 198, 122);
   border:0;
   border-radius: 3px;
   font-size: 20px;

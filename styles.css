@@ -1,6 +1,6 @@
 
 body {
-  background-color: #fafdee;
+  background-color: rgb(234, 198, 122);
   margin: 0 auto;
 }
 .jumbotron{
@@ -12,7 +12,7 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 75px !important;
-  color: #233237 !important;
+  color: rgb(35, 50, 55) !important;
   font-weight: bold;
   margin: 10px 0 10px 0;
 }
@@ -33,7 +33,7 @@ p{
   font-family: 'Hind', sans-serif;
   text-align: left;
   font-size: 25px;
-  color: #233237;
+  color: rgb(35, 50, 55);
 }
 .row {
    width: 1200px;
@@ -85,18 +85,18 @@ img{
 }
 .navbar li {
   color: #000
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif !important;
   text-align: center;
-  font-size: 20px !important;
+  font-size: 15px !important;
   color: #233237 !important;
 
 }
 .nav-link , .navbar-brand{
   cursor: pointer;
   color: #000
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif !important;;
   text-align: center;
-  font-size: 20px !important;
+  font-size: 15px !important;
   color: #233237 !important;
 }
 header {
