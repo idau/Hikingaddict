@@ -1,7 +1,7 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-background:#7DA3A1;
+  background:#fafdee;
 }
 h1 {
   font-size: 75px;
@@ -60,13 +60,15 @@ textarea {
   padding-left: 20px:
 }
 
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+  color:#9d9d9d;
+  background:none;
+}
 .nav-link , .navbar-brand{
-  color: #f4f4f4;
   cursor: pointer;
 }
 .nav-link{ margin-right: 1em !important;}
 .navbar-collapse{ justify-content: flex-end;}
-
 }
 .navbar-collapse{
  justify-content: flex-end;
@@ -114,8 +116,4 @@ border-radius:16px 16px 16px 16px;
   text-align:center;
   position:relative;
   color:white;
-}
-.navbar {
-  background-color: #34675C;
-
 }
