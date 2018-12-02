@@ -1,7 +1,4 @@
 
-body, html {
-  height: 100%;
-}
 body {
   background-color: #fafdee;
   margin: 0 auto;
@@ -14,7 +11,7 @@ body {
 h1 {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  font-size: 100px !important;
+  font-size: 75px !important;
   color: #233237 !important;
   font-weight: bold;
   margin: 10px 0 10px 0;

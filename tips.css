@@ -1,10 +1,21 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background:#fafdee;
-  color:#283018;}
+  color:#283018;
+}
+
 h1 {
-  font-size:23px;
-  padding-top:30px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 75px !important;
+  color: #233237 !important;
+  }
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px !important;
+  color: #984B43;
   }
 body {
   line-height:2.5;
