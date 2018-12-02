@@ -1,0 +1,1338 @@
+<!DOCTYPE html>
+<!--[if IE 7]>	<html id="ie7" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" > <![endif]-->
+<!--[if IE 8]>	<html id="ie8" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" > <![endif]-->
+<!--[if IE 9]>	<html id="ie9" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" > <![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) ] | !(IE 9) ><!-->	<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" > <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width' />
+<title>Tips for Hiking in Cold and Wet Weather | The Hiking Life</title>
+
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.thehikinglife.com/the-hiking-life-2/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/themes/aspen/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="shortcut icon"  href="/the-hiking-life-2/wp-content/uploads/2015/02/hl.ico" />
+
+<!-- MapPress Easy Google Maps Version:2.50.10 (http://www.mappresspro.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<script type="text/javascript">var aspenIsStacked=true;var aspenThemeWidth=940;var aspenMenuThreshold=640;var aspenHideMenuBar=false;var aspenUseSuperfish=false;</script>
+
+<!-- All in One SEO Pack 2.9.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="A combination of driving rain, high winds and temperatures just above freezing, represents some of the most challenging weather that a hiker can face..........." />
+
+<meta name="keywords"  content="backpacking,hiking,camping,cold and wet weather,adirondacks,fiordland,montbell,mountain laurel designs,patagonia,sarek national park,tasmania,tierra del fuego" />
+
+<link rel="canonical" href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//www.avantlink.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Hiking Life &raquo; Feed" href="https://www.thehikinglife.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Hiking Life &raquo; Comments Feed" href="https://www.thehikinglife.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Hiking Life &raquo; Tips for Hiking in Cold and Wet Weather Comments Feed" href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.3.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-88435262-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-88435262-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thehikinglife.com\/the-hiking-life-2\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='aspen-main-style-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/themes/The-Hiking-Life-2.0/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='aspen-mobile-style-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/themes/aspen/style-mobile.min.css?ver=1.1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='aspen-style-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/aspen-subthemes/style-aspen.css?ver=359' type='text/css' media='all' />
+<link rel='stylesheet' id='atw-bxslider-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/aspen-shortcodes-and-widgets/includes/bxslider/jquery.bxslider.min.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='aspen-sw-style-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/aspen-shortcodes-and-widgets/aspen-sw-style.min.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='avantlink_rp_style-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/avantlink-wp/css/rp_style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='avantlink_ps_style-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/avantlink-wp/css/ps_style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-leaflet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/mappress-google-maps-for-wordpress/css/leaflet/leaflet.css?ver=1.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.50.10' type='text/css' media='all' />
+<link rel='stylesheet' id='atw-posts-style-sheet-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/show-posts/atw-posts-style.min.css?ver=1.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/tablepress-combined.min.css?ver=9' type='text/css' media='all' />
+<link rel='stylesheet' id='scroll-triggered-boxes-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/scroll-triggered-boxes/assets/css/styles.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/addthis-follow/frontend/build/addthis_wordpress_public.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/css/jetpack.css?ver=6.7' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.thehikinglife.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.3.0'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/aspen-shortcodes-and-widgets/js/aspenswjslib.min.js?ver=2.0.5'></script>
+<link rel='https://api.w.org/' href='https://www.thehikinglife.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thehikinglife.com/the-hiking-life-2/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thehikinglife.com/the-hiking-life-2/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Hydration Tips for Hikers' href='https://www.thehikinglife.com/2017/05/hydration-tips-for-hikers/' />
+<link rel='next' title='A Natural Progression' href='https://www.thehikinglife.com/2017/06/a-natural-progression/' />
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='https://wp.me/p4prGB-hBz' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thehikinglife.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thehikinglife.com%2F2017%2F06%2Ftips-for-hiking-in-cold-and-wet-weather%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thehikinglife.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thehikinglife.com%2F2017%2F06%2Ftips-for-hiking-in-cold-and-wet-weather%2F&#038;format=xml" />
+<link rel='stylesheet' type='text/css' media='all' href='https://www.thehikinglife.com/the-hiking-life-2?action=display_custom_css_code' >
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- This site is using Aspen 1.1.11 (359) subtheme: IndieAve -->
+
+
+<!--[if lte IE 8]>
+<style type="text/css" media="screen">
+#content img.size-thumbnail,#content img.size-medium,#content img.size-large,#content img.size-full,#content img.attachment-thumbnail,
+#content img.wp-post-image,img.avatar,.format-chat img.format-chat-icon,
+#wrapper,#branding,#colophon,#content, #content .post,
+#primary-widget-area,#right-widget-area,#left-widget-area,.sidebar_top,.sidebar_bottom,.sidebar_extra,
+#first,#second,#third,#fourth,
+#commentform input:focus,#commentform textarea:focus,#respond input#submit {
+	behavior: url(https://www.thehikinglife.com/the-hiking-life-2/wp-content/themes/aspen/js/PIE/PIE.php) !important; position:relative;
+}
+</style>
+<![endif]-->
+
+<!-- End of Aspen options -->
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Tips for Hiking in Cold and Wet Weather" />
+<meta property="og:url" content="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" />
+<meta property="og:description" content="A combination of driving rain, high winds and temperatures just above freezing, represents some of the most challenging weather that a hiker can face. In these conditions hypothermia and frostbite …" />
+<meta property="article:published_time" content="2017-06-01T22:47:28+00:00" />
+<meta property="article:modified_time" content="2017-06-01T23:58:32+00:00" />
+<meta property="og:site_name" content="The Hiking Life" />
+<meta property="og:image" content="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2014/10/11374394_417787241679380_1313516594_n-e1496346265230.jpg?fit=880%2C880&amp;ssl=1" />
+<meta property="og:image:width" content="880" />
+<meta property="og:image:height" content="880" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Tips for Hiking in Cold and Wet Weather" />
+<meta name="twitter:image" content="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2014/10/11374394_417787241679380_1313516594_n-e1496346265230.jpg?fit=880%2C880&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<style type="text/css">
+/* Custom Styles for Box 61042 */
+.stb-61042 {
+}
+
+</style>
+
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/			</style>
+		</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-67677 single-format-standard single-author singular not-logged-in aspen-theme-body aspen-mobile-responsive">
+<a href="#page-bottom" id="page-top">&darr;</a> <!-- add custom CSS to use this page-bottom link -->
+<div id="wrapper" class="hfeed">
+<div id="wrap-header">
+	<header id="branding" role="banner"><div id="branding-content">
+		<div id="site-logo"></div>
+		<div id="site-logo-link" onclick="location.href='https://www.thehikinglife.com/';"></div>
+
+		<div class="title-description">
+			<h1 id="site-title"><span><a href="https://www.thehikinglife.com/" title="The Hiking Life" rel="home">The Hiking Life</a></span></h1>
+			<h2 id="site-description"> Tips, Tales and Trip Reports</h2>
+		</div>
+
+		<div id="header_image">
+                    <img src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2015/06/Lvt9oW1433529126.jpg" width="800" height="159" alt="The Hiking Life" />
+        		</div><!-- #header_image -->
+	</div></header><!-- #branding-content,#branding -->
+<div id="wrap-bottom-menu">
+<div id="mobile-bottom-nav" class="mobile_menu_bar" style="padding:5px 10px 5px 10px;clear:both;">
+	<div style="margin-bottom:20px;">
+<span class="mobile-home-link">
+	<a href="https://www.thehikinglife.com/" title="The Hiking Life" rel="home">Home</a></span>
+	<span class="mobile-menu-link"><a href="javascript:void(null);" onclick="aspen_ToggleMenu(document.getElementById('nav-bottom-menu'), this, 'Menu &darr;', 'Menu &uarr;')">Menu &darr;</a></span></div>
+</div>
+		<div id="nav-bottom-menu"><nav id="access" class="menu_bar" role="navigation">
+		<div class="skip-link"><a class="assistive-text" href="#content" title="">Skip to primary content</a></div>
+			<div class="skip-link"><a class="assistive-text" href="#primary-widget-area" title="">Skip to secondary content</a></div>
+<div class="menu"><ul id="menu-top-menu" class="menu"><li id="menu-item-58607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-58607"><a href="https://www.thehikinglife.com/">Home</a></li>
+<li id="menu-item-58556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58556"><a href="https://www.thehikinglife.com/hikes/">Hikes</a>
+<ul class="sub-menu">
+	<li id="menu-item-58622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58622"><a href="https://www.thehikinglife.com/hikes/regions/">Africa &#038; Middle East</a></li>
+	<li id="menu-item-58626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58626"><a href="https://www.thehikinglife.com/hikes/asia/">Asia</a></li>
+	<li id="menu-item-58623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58623"><a href="https://www.thehikinglife.com/hikes/australasia/">Australasia</a></li>
+	<li id="menu-item-58624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58624"><a href="https://www.thehikinglife.com/hikes/central-america/">Central America</a></li>
+	<li id="menu-item-58625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58625"><a href="https://www.thehikinglife.com/hikes/europe/">Europe</a></li>
+	<li id="menu-item-58627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58627"><a href="https://www.thehikinglife.com/hikes/north-america/">North America</a></li>
+	<li id="menu-item-58628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58628"><a href="https://www.thehikinglife.com/hikes/south-america/">South America</a></li>
+	<li id="menu-item-10932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10932"><a href="https://www.thehikinglife.com/12-long-walks/">12 Long Walks</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10935"><a href="https://www.thehikinglife.com/12-long-walks/map-stats-journals/">Map, Stats &#038; Journals</a></li>
+	</ul>
+</li>
+	<li id="menu-item-58398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58398"><a href="https://www.thehikinglife.com/hikes/100-classic-hikes/">100 Classic Hikes</a></li>
+	<li id="menu-item-58555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58555"><a href="https://www.thehikinglife.com/hikes/20-classic-day-hikes-2/">20 Classic Day Hikes</a></li>
+</ul>
+</li>
+<li id="menu-item-58550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58550"><a href="https://www.thehikinglife.com/how-to/">How To</a>
+<ul class="sub-menu">
+	<li id="menu-item-58539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58539"><a href="https://www.thehikinglife.com/how-to/planning/">Trip Planning</a></li>
+	<li id="menu-item-11559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11559"><a href="https://www.thehikinglife.com/how-to/environment/">Environment</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58543"><a href="https://www.thehikinglife.com/how-to/environment/keep-on-track/">Keep on Track</a></li>
+		<li id="menu-item-58544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58544"><a href="https://www.thehikinglife.com/how-to/environment/no-trace-camping/">LNT Camping</a></li>
+		<li id="menu-item-58547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58547"><a href="https://www.thehikinglife.com/how-to/environment/hygiene/">Hygiene</a></li>
+		<li id="menu-item-58546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58546"><a href="https://www.thehikinglife.com/how-to/environment/wildlife/">Wildlife</a></li>
+		<li id="menu-item-58548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58548"><a href="https://www.thehikinglife.com/how-to/environment/hiking-etiquette/">Hiking Etiquette</a></li>
+		<li id="menu-item-58545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58545"><a href="https://www.thehikinglife.com/how-to/environment/a-natural-progression/">A Natural Progression</a></li>
+	</ul>
+</li>
+	<li id="menu-item-58692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58692"><a href="https://www.thehikinglife.com/going-light/">Going Light</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58694"><a href="https://www.thehikinglife.com/going-light/the-essentials/">The Essentials</a></li>
+		<li id="menu-item-58696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58696"><a href="https://www.thehikinglife.com/going-light/double-duty/">Double Duty</a></li>
+		<li id="menu-item-58693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58693"><a href="https://www.thehikinglife.com/going-light/the-big-three/">The Big Three</a></li>
+		<li id="menu-item-58699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58699"><a href="https://www.thehikinglife.com/going-light/minimizing-food-and-water-weight/">Food &#038; Water</a></li>
+		<li id="menu-item-58698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58698"><a href="https://www.thehikinglife.com/going-light/doing-without/">Doing Without</a></li>
+	</ul>
+</li>
+	<li id="menu-item-58700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58700"><a href="https://www.thehikinglife.com/skills/">Skills</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58707"><a href="https://www.thehikinglife.com/skills/hiking-techniques/">Hiking Techniques</a></li>
+		<li id="menu-item-58913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58913"><a href="https://www.thehikinglife.com/skills/loading-a-backpack/">Loading a Backpack</a></li>
+		<li id="menu-item-58703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58703"><a href="https://www.thehikinglife.com/skills/navigation/">Navigation</a></li>
+		<li id="menu-item-58716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58716"><a href="https://www.thehikinglife.com/skills/hiking-cold-wet-conditions/">Hiking in Cold &#038; Wet Conditions</a></li>
+		<li id="menu-item-61963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61963"><a href="https://www.thehikinglife.com/skills/hiking-in-the-heat/">Hiking in Hot Weather</a></li>
+		<li id="menu-item-58706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58706"><a href="https://www.thehikinglife.com/skills/choosing-a-campsite/">Choosing a Campsite</a></li>
+		<li id="menu-item-58705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58705"><a href="https://www.thehikinglife.com/skills/fire/">Building a Fire</a></li>
+		<li id="menu-item-58704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58704"><a href="https://www.thehikinglife.com/skills/knots/">Knots</a></li>
+		<li id="menu-item-58702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58702"><a href="https://www.thehikinglife.com/skills/how-to-ford-a-river/">How to Ford a River</a></li>
+		<li id="menu-item-69968" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-69968"><a href="https://www.thehikinglife.com/2016/08/hitchhiking-tips-for-long-distance-hikers/">Hitchhiking</a></li>
+		<li id="menu-item-60007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60007"><a href="https://www.thehikinglife.com/skills/snow/">Hiking &#038; Camping in the Snow</a></li>
+		<li id="menu-item-58719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58719"><a href="https://www.thehikinglife.com/skills/survival/">Survival</a></li>
+		<li id="menu-item-58725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58725"><a href="https://www.thehikinglife.com/hiking-abroad/the-three-as/">The Three A&#8217;s</a></li>
+	</ul>
+</li>
+	<li id="menu-item-58708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58708"><a href="https://www.thehikinglife.com/health-safety/">Health &#038; Safety</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58711"><a href="https://www.thehikinglife.com/health-safety/first-aid/">First-Aid Kit</a></li>
+		<li id="menu-item-58717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58717"><a href="https://www.thehikinglife.com/health-safety/wear-and-tear/">Wear &#038; Tear</a></li>
+		<li id="menu-item-70161" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-70161"><a href="https://www.thehikinglife.com/2015/02/a-hikers-guide-to-blister-management/">Blisters</a></li>
+		<li id="menu-item-66055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66055"><a href="https://www.thehikinglife.com/health-safety/hiking-fitness/">Hiking Fitness</a></li>
+		<li id="menu-item-58714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58714"><a href="https://www.thehikinglife.com/health-safety/intestinal-disorders/">Intestinal Disorders</a></li>
+		<li id="menu-item-58720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58720"><a href="https://www.thehikinglife.com/health-safety/hydration/">Hydration</a></li>
+		<li id="menu-item-59239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59239"><a href="https://www.thehikinglife.com/health-safety/the-hikers-diet/">The Hiker&#8217;s Diet</a></li>
+		<li id="menu-item-58721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58721"><a href="https://www.thehikinglife.com/health-safety/natures-emergencies/">Nature’s Emergencies</a></li>
+		<li id="menu-item-58709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58709"><a href="https://www.thehikinglife.com/health-safety/altitude/">Altitude</a></li>
+		<li id="menu-item-62231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62231"><a href="https://www.thehikinglife.com/health-safety/bears/">Bears</a></li>
+		<li id="menu-item-62230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62230"><a href="https://www.thehikinglife.com/health-safety/snakes/">Snakes</a></li>
+		<li id="menu-item-62229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62229"><a href="https://www.thehikinglife.com/health-safety/ticks-mosquitos/">Ticks &#038; Mosquitos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-58722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58722"><a href="https://www.thehikinglife.com/hiking-abroad/">Hiking Abroad</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58732"><a href="https://www.thehikinglife.com/hiking-abroad/planning/">Guided or Independent?</a></li>
+		<li id="menu-item-58724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58724"><a href="https://www.thehikinglife.com/hiking-abroad/cultural-considerations/">Cultural Considerations</a></li>
+		<li id="menu-item-58727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58727"><a href="https://www.thehikinglife.com/hiking-abroad/health-safety/">Health &#038; Safety</a></li>
+		<li id="menu-item-58726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58726"><a href="https://www.thehikinglife.com/hiking-abroad/equipment/">Equipment</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-58549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58549"><a href="https://www.thehikinglife.com/gear/">Gear</a>
+<ul class="sub-menu">
+	<li id="menu-item-58560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58560"><a href="https://www.thehikinglife.com/gear-lists/">Gear Lists</a></li>
+	<li id="menu-item-58683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58683"><a href="https://www.thehikinglife.com/gear/backpack/">Backpack</a></li>
+	<li id="menu-item-58688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58688"><a href="https://www.thehikinglife.com/gear/shelter/">Shelter</a></li>
+	<li id="menu-item-58687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58687"><a href="https://www.thehikinglife.com/gear/sleeping-bag/">Sleeping Bag</a></li>
+	<li id="menu-item-58686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58686"><a href="https://www.thehikinglife.com/gear/sleeping-mat/">Sleeping Mat</a></li>
+	<li id="menu-item-58685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58685"><a href="https://www.thehikinglife.com/gear/footwear/">Footwear</a></li>
+	<li id="menu-item-58684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58684"><a href="https://www.thehikinglife.com/gear/clothing-2/">Clothing</a></li>
+	<li id="menu-item-58691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58691"><a href="https://www.thehikinglife.com/gear/water-purification/">Water Purification</a></li>
+	<li id="menu-item-58689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58689"><a href="https://www.thehikinglife.com/gear/alcoholstove/">Alcohol Stove</a></li>
+	<li id="menu-item-58690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58690"><a href="https://www.thehikinglife.com/gear/miscellaneous-items/">Miscellaneous Items</a></li>
+	<li id="menu-item-11051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11051"><a href="https://www.thehikinglife.com/sponsors/">Sponsors</a></li>
+</ul>
+</li>
+<li id="menu-item-58695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58695"><a href="https://www.thehikinglife.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-59748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59748"><a href="https://www.thehikinglife.com/resources/books-for-hikers-and-backpackers/">Books for Hikers and Backpackers</a></li>
+	<li id="menu-item-61056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61056"><a href="https://www.thehikinglife.com/resources/websites/">Websites</a></li>
+	<li id="menu-item-59749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59749"><a href="https://www.thehikinglife.com/resources/gear-makers/">Gear Makers</a></li>
+	<li id="menu-item-59750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59750"><a href="https://www.thehikinglife.com/resources/gear-merchants/">Gear Merchants</a></li>
+</ul>
+</li>
+<li id="menu-item-70391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70391"><a href="https://www.thehikinglife.com/category/thru-hiker-gear-guide/">Thru-Hiker Gear Guide</a></li>
+<li id="menu-item-58558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58558"><a href="https://www.thehikinglife.com/contact/">Contact</a></li>
+<li id="menu-item-65532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65532"><a href="https://www.thehikinglife.com/trip-consulting/">Consulting</a></li>
+<li id="menu-item-58559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58559"><a href="https://www.thehikinglife.com/speaking/">Speaking</a></li>
+<li id="menu-item-58557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58557"><a href="https://www.thehikinglife.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-65589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65589"><a href="https://www.thehikinglife.com/website-information/">Website Information</a></li>
+</ul>
+</li>
+<li id="menu-item-11921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11921"><a href="https://www.thehikinglife.com/the-hiking-life-blog/">Latest Posts</a>
+<ul class="sub-menu">
+	<li id="menu-item-11060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11060"><a href="https://www.thehikinglife.com/subscribe-via-email/">Subscribe</a></li>
+</ul>
+</li>
+</ul></div>		</nav></div><!-- #access --></div> <!-- #wrap-bottom-menu -->
+</div> <!-- #wrap-header -->
+	<div id="infobar">
+	<span class='infobar_right'>
+<span id="infobar_paginate"></span>
+	</span></div><div class="aspen-clear"></div><!-- #infobar -->
+	<div id="main">
+		<div id="container_wrap" class="container-single equal_height right-1-col">
+		<div id="container">
+			<div id="content" role="main">
+
+				<nav id="nav-above" class="navigation">
+				<h3 class="assistive-text">Post navigation</h3>
+					<div class="nav-previous"><a href="https://www.thehikinglife.com/2017/05/hydration-tips-for-hikers/" rel="prev"><span class="meta-nav">&larr;</span> Hydration Tips for Hikers</a></div>
+				<div class="nav-next"><a href="https://www.thehikinglife.com/2017/06/a-natural-progression/" rel="next">A Natural Progression <span class="meta-nav">&rarr;</span></a></div>
+				</nav><!-- #nav-above -->
+
+
+<article id="post-67677" class="content-single  post-67677 post type-post status-publish format-standard has-post-thumbnail hentry category-health-safety category-backpacking-skills category-blog tag-adirondacks tag-backpacking tag-camping tag-cold-and-wet-weather tag-fiordland tag-hiking tag-montbell tag-mountain-laurel-designs tag-patagonia tag-sarek-national-park tag-tasmania tag-tierra-del-fuego">
+	<header class="entry-header">
+		<div class="entry-hdr"><h1 class="entry-title">Tips for Hiking in Cold and Wet Weather</h1></div>
+
+		<div class="entry-meta">
+						<div class="meta-info-wrap">
+			<span class="sep posted-on">Posted on </span><a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" title="5:47 pm" rel="bookmark"><time class="entry-date" datetime="2017-06-01T17:47:28+00:00" pubdate>June 1, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://www.thehikinglife.com/author/admin/" title="View all posts by Cam" rel="author">Cam</a></span></span>
+			</div><!-- .entry-meta-icons -->		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content cf">
+		<p>A combination of driving rain, high winds and temperatures just above freezing, represents some of the most challenging weather that a hiker can face. In these conditions hypothermia and frostbite (if the thermometer subsequently drops below 0°C / 32°F) are a very real possibility. Thankfully, cold-related maladies are far easier to prevent than they are to cure. Here are a dozen<b> </b>useful tips for hikers venturing into inclement environments:</p>
+<div id="attachment_67680" style="width: 509px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-7.55.17-am.png"><img class="wp-image-67680 " src="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-7.55.17-am.png?resize=499%2C417" alt="" width="499" height="417" srcset="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-7.55.17-am.png?zoom=2&amp;resize=499%2C417&amp;ssl=1 998w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-7.55.17-am.png?zoom=3&amp;resize=499%2C417&amp;ssl=1 1497w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1" /></a><p class="wp-caption-text">The ultimate in field tests for wet weather gear &#8211; <a href="https://www.thehikinglife.com/2016/05/southwest-tasmania-traverse-stage-2-the-arthur-range/">Tasmania&#8217;s Arthur Range</a> (March, 2016).</p></div>
+<p><strong>1.  <span style="text-decoration: underline;">Forecast</span>:</strong> Always check the forecast before setting out. Adapting is a lot easier if you know what&#8217;s coming<em>.</em> This is a good habit to establish irrespective of the climate.</p>
+<p><b>2.  <span style="text-decoration: underline;">Awareness</span></b>: Watch the weather (forecasts can sometimes be wrong) and know your limitations. If conditions are deteriorating and you’re feeling exhausted, don’t hesitate to set up your shelter and call it a day.</p>
+<div id="attachment_67691" style="width: 509px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-2.05.53-pm.png"><img class="wp-image-67691 " src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-2.05.53-pm.png?resize=499%2C359" alt="" width="499" height="359" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-2.05.53-pm.png?zoom=2&amp;resize=499%2C359&amp;ssl=1 998w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-2.05.53-pm.png?zoom=3&amp;resize=499%2C359&amp;ssl=1 1497w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1" /></a><p class="wp-caption-text"><a href="https://www.thehikinglife.com/2010/10/sarek-national-park-sweden-2009/">Sarek National Park​</a>| Lapland, Sweden | W​ith its long valleys, winding rivers, glaciers and distinctive peaks, navigation in Sarek is not overly difficult when conditions are fine. However, when the mother of all storms rolls through, as it did during the last 1.5 days of my hike in 2009, much of your time may well be spent hiking through driving rain and thick fog.</p></div>
+<p><b>3.  <span style="text-decoration: underline;">Appropriate clothing</span>: </b>If you are hiking in cold, wet and/or windy weather for an extended period of time, it&#8217;s not so much a question of staying 100% dry (which is nigh on impossible), as it is maintaining a reasonable level of comfort whilst out on trail.<span style="color: #000000;"><b> </b></span></p>
+<p>When backpacking in regions such as Tasmania, Scotland, Lapland, the Pacific Northwest, Tierra del Fuego and Fiordland (i.e. cold, wet and windy), my preference is for multiple lighter layers that dry relatively quickly and retain warmth when wet. For example:</p>
+<ul>
+<li><span style="text-decoration: underline;"><em>Base layer</em></span>: 150 or 200 Merino wool long sleeve shirt with zip neck (e.g. <a href="https://www.montbell.us/products/disp.php?p_id=2307238&amp;gen_cd=1">Montbell Super Merino Wool M.W. High Neck</a>, <a href="https://www.backcountry.com/mens-lightweight-long-underwear-tops">Ice Breaker </a>and<a href="https://www.backcountry.com/mens-lightweight-long-underwear-tops"> Patagonia</a>) . <span style="font-weight: 400;">I’m a big fan of Merino wool: good warmth to weight ratio, quick drying, feels soft against the skin, and natural antibacterial properties means that it doesn’t smell as much as synthetic garments. I always go with zip neck models for their versatility over a wider range of temperatures. </span></li>
+</ul>
+<div id="attachment_11275" style="width: 510px" class="wp-caption aligncenter"><a href="https://i2.wp.com/www.thehikinglife.com/journal/wp-content/uploads/2015/04/IMG_0055.jpg"><img class="wp-image-11275" src="https://i0.wp.com/www.thehikinglife.com/journal/wp-content/uploads/2015/04/IMG_0055-1024x682.jpg?resize=500%2C333" alt="IMG_0055" width="500" height="333" data-recalc-dims="1" /></a><p class="wp-caption-text"><a href="https://www.thehikinglife.com/2010/09/dusky-track-fjordland-2010/">Dusky Track</a> | Fiordland, New Zealand | Accessible only by air or water, the Dusky is situated in an area that receives an average of 8000 mm (315 inches) of rain per year (photo courtesy of Olivia Darras &#8211; Feb, 2010).</p></div>
+<ul>
+<li><span style="text-decoration: underline;"><em>Insulation Layer</em></span><strong>:</strong> When heading out into areas subject to heavy precipitation, I leave the down jacket and/or vest at home and instead opt for Fleece and/or synthetic fiber garments. Long time favourites include the <a title="Montbell Thermawrap Jacket" href="http://www.montbell.us/products/disp.php?p_id=2301182" target="_blank" rel="noopener noreferrer">Montbell Thermawrap Jacket</a> &amp; <a title="Montbell Thermawrap Vest" href="http://www.montbell.us/products/disp.php?cat_id=2002&amp;p_id=2301171&amp;gen_cd=1" target="_blank" rel="noopener noreferrer">Vest</a> and the <a title="Patagonia R1 Hoody" href="https://www.backcountry.com/patagonia-r1-hooded-fleece-pullover-mens" target="_blank" rel="noopener noreferrer">Patagonia R1 Hoody</a> &amp; <a title="Patagonia R2 Vest" href="http://www.campsaver.com/r2-vest-men-s" target="_blank" rel="noopener noreferrer">R2 Fleece Vest.</a></li>
+</ul>
+<ul>
+<li><span style="text-decoration: underline;"><em>Outer Layer</em></span><strong>: </strong>No garment is completely waterproof given extended exposure to the conditions I describe above. Working on the principle that <em>damp is better than soaked and being comfortable rather than dry is the priority</em>, I look for rain jackets with the following features:</li>
+</ul>
+<p style="padding-left: 60px;"><strong>1</strong>. A good <a title="DWR" href="http://hiking.about.com/od/Hiking-Glossary/g/Dwr.htm" target="_blank" rel="noopener noreferrer">DWR</a> (<em>durable water repellant)</em> finish;<br />
+<strong>2</strong>. Relatively lightweight;<br />
+<strong>3</strong>. Quick drying;<br />
+<strong>4</strong>. Pit zips for ventilation;<br />
+<strong>5</strong>. Adjustable wrist cuffs and,<br />
+<strong>6</strong>. Fully adjustable hood with a stiff brim.</p>
+<ul>
+<li><span style="text-decoration: underline;"><em>Jacket preferences?</em></span><strong>:</strong> The last few years I’ve mostly been using a <a href="https://www.thehikinglife.com/2015/12/review-montbell-peak-shell-rain-jacket/"><span style="font-weight: 400;">Montbell Peak Shell Jacket</span></a><span style="font-weight: 400;">. It has performed very well in a wide variety of environments ranging from Southwest Tasmania to the Colombian Andes. For three season hiking on well maintained trails and/or open terrain (i.e. no bushwhacking or overgrown terrain), I think the </span><a href="https://www.thehikinglife.com/2014/11/driducks-rain-jacket-review/"><span style="font-weight: 400;">DriDucks Ultra-Lite 2 Jacket</span></a><span style="font-weight: 400;"> represents great value, particularly for folks on a tight budget.</span></li>
+</ul>
+<div id="attachment_67249" style="width: 509px" class="wp-caption aligncenter"><a href="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/03/Dri-Ducks-2.jpg"><img class="wp-image-67249" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/03/Dri-Ducks-2-1024x826.jpg?resize=499%2C405" alt="" width="499" height="405" srcset="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/03/Dri-Ducks-2.jpg?resize=300%2C242&amp;ssl=1 300w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/03/Dri-Ducks-2.jpg?zoom=2&amp;resize=499%2C405&amp;ssl=1 998w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1" /></a><p class="wp-caption-text">Looking a bit like an Antipodean version of Big Bird in my DriDucks Ultra-Lite Jacket | <a href="https://www.thehikinglife.com/2014/10/cordillera-blanca-traverse-cbt/">Cordillera Blanca Traverse</a>, Peru, 2014.</p></div>
+<ul>
+<li><span style="text-decoration: underline;"><em>Lower Body?</em></span>: I usually take a combination of lightweight/quick drying &#8220;waterproof&#8221; pants (e.g. <a title="Montbell Versalite Pants" href="http://www.montbell.us/products/disp.php?p_id=2328277" target="_blank" rel="noopener noreferrer">Montbell Versalite</a>), along with a pair of lightweight long underwear to use at night (e.g. <a title="Patagonia Capilene 2 Long Underwear" href="http://www.rei.com/product/854443/patagonia-capilene-2-lightweight-long-underwear-bottoms-mens" target="_blank" rel="noopener noreferrer">Patagonia Capilene 2</a>, <a href="https://www.montbell.us/products/disp.php?cat_id=2302&amp;p_id=2307267&amp;gen_cd=1">Montbell Merino Wool L.W. Tights</a>).</li>
+</ul>
+<p><b>4.  <span style="text-decoration: underline;">Umbrella</span>: </b>Whether or not I take an umbrella into cold and wet conditions, depends on the character of the environment. For extended on-trail hikes in forests (i.e. relatively sheltered), I have found an umbrella to be worth its weight in gold by helping to keep my core temperature regular. For example, during my late fall/early winter hike of the Appalachian Trail in 2012, an umbrella helped to keep my torso warm and dry despite near constant precipitation and temps that rarely got above 5°c (41°F). On the other hand, if I&#8217;m venturing off-trail and/or into exposed, above-tree line areas prone to driving wind and rain, umbrellas are usually more trouble than they are worth.</p>
+<div id="attachment_67690" style="width: 511px" class="wp-caption aligncenter"><a href="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg"><img class="wp-image-67690" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks-1024x853.jpg?resize=501%2C419" alt="" width="501" height="419" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg?resize=768%2C640&amp;ssl=1 768w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg?resize=360%2C300&amp;ssl=1 360w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg?zoom=2&amp;resize=501%2C419&amp;ssl=1 1002w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-umbrella-adirondacks.jpg?zoom=3&amp;resize=501%2C419&amp;ssl=1 1503w" sizes="(max-width: 501px) 100vw, 501px" data-recalc-dims="1" /></a><p class="wp-caption-text">Greg &#8220;Malto&#8221; Gressel watching the cascades pour down into Avalanche lake | High Peaks, Adirondack Mountains, NY (Oct, 2015).</p></div>
+<p><b>5.  <span style="text-decoration: underline;">Avoid sweating</span></b>: Over-dressing and/or over-exerting can lead to excessive perspiration, which in turn can result in a lowering of body temperature. Constantly monitor yourself and remove or add layers accordingly. Make ‘not sweating’ a priority. This is one of the biggest reasons to bring along an umbrella; they can&#8217;t be beat when it comes to ventilation.</p>
+<p><b style="line-height: 24px;">6.  <span style="text-decoration: underline;">Pay Attention to the Extremities</span></b><span style="line-height: 24px;">: </span><span style="line-height: 24px;">Your <em>head, hands and feet constitute the body’s initial warning system in cold conditions. </em>For trips in cold and wet environments, I take </span>a fleece beanie, thin wool gloves, <a title="MLD eVent Rain Mitts" href="https://mountainlaureldesigns.com/product/event-rain-mitts/" target="_blank" rel="noopener noreferrer">MLD eVent Rain Mitts</a> and <a href="https://www.rei.com/product/856655/rei-co-op-merino-wool-liner-socks">merino liner socks</a>. I also carry a third pair of thicker wool socks (always kept dry) to wear at night, or for use on my hands in lieu of mittens if temps drop below freezing.</p>
+<div id="attachment_11278" style="width: 510px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.thehikinglife.com/journal/wp-content/uploads/2015/04/e_21.jpg"><img class="wp-image-11278" src="https://i2.wp.com/www.thehikinglife.com/journal/wp-content/uploads/2015/04/e_21.jpg?resize=500%2C338" alt="e_2" width="500" height="338" data-recalc-dims="1" /></a><p class="wp-caption-text"><a href="https://www.thehikinglife.com/2010/10/dientes-circuit-isla-navarino-chile-1997/">Dientes Circuit</a> | Situated on the Isla Navario, the starting &amp; finishing point for this spectacular hike is <a href="https://en.wikipedia.org/wiki/Puerto_Williams">Puerto Williams</a>, the southernmost town in the world (Feb, 1997).</p></div>
+<p><b>7.  <span style="text-decoration: underline;">Short breaks</span></b>: The longer you stop the colder you become. When the weather turns nasty, keep breaks short and to a minimum. If for whatever reason you do need to take a longer break, put on an extra layer or two until you begin hiking again.</p>
+<p><b>8. <span style="text-decoration: underline;"> Food &amp; Water</span></b>: During the day eat <a href="http://www.rei.com/expertadvice/articles/energy+foods.html">high-energy snacks</a> at regular intervals. Before going to bed, your evening meal should emphasise fats and proteins, which are processed slower by your digestive system. Keep a chocolate bar in your sleeping bag, in case you wake up cold and hungry in the middle of the night. (<span style="text-decoration: underline;"><em>Note</em></span>: you may want to disregard this last suggestion if you are hiking in bear country outside of winter).</p>
+<p>In cold and wet conditions, hikers often forget to drink enough water. Big mistake. If you are dehydrated you are more susceptible to hypothermia (see <a href="https://www.thehikinglife.com/health-safety/hydration/">Hydration</a> for details).</p>
+<div id="attachment_59118" style="width: 490px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg"><img class="wp-image-59118 size-full" src="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg?resize=480%2C360" alt="" width="480" height="360" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg?w=480&amp;ssl=1 480w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg?resize=300%2C225&amp;ssl=1 300w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg?resize=60%2C45&amp;ssl=1 60w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/09/Mealpack-Bar.jpg?resize=400%2C300&amp;ssl=1 400w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /></a><p class="wp-caption-text">About to eat my 600th and final MealPack bar of the <a href="https://www.thehikinglife.com/12-long-walks/map-stats-journals/">12 Long Walks</a> | Appalachian Trail | Early December, 2012.</p></div>
+<p><strong>9. <span style="text-decoration: underline;">Pack Liner</span>:</strong> Use a trash compactor bag to line the inside of your backpack. There&#8217;s not much point staying comfy during the day, if the rest of your gear (particularly your sleeping bag) is soaked when you arrive at camp.</p>
+<p><strong>10.</strong>  <span style="text-decoration: underline;"><strong>Making and Breaking Camp</strong></span>: Putting up and taking down your shelter in pouring rain, rates right up there with a nagging case of bum chafe, in regards to things that hikers look forward to the most. Here are some pointers:</p>
+<ul>
+<li><span style="text-decoration: underline;"><em>Location, location</em></span>: Look for a spot that has good drainage; avoid depressions, gullies and if camping in established sites, be wary of setting up on highly compacted areas where water may pool during heavy precipitation. If rain is accompanied by high winds, try to find a place that is at least somewhat sheltered from elements. If camping close to watercourses, be sure to set up above the high water mark.</li>
+</ul>
+<div id="attachment_67683" style="width: 509px" class="wp-caption aligncenter"><a href="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/MLD-solomid-tassie-sw-traverse.jpg"><img class="wp-image-67683" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/MLD-solomid-tassie-sw-traverse-1024x768.jpg?resize=499%2C377" alt="" width="499" height="377" srcset="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/MLD-solomid-tassie-sw-traverse.jpg?zoom=2&amp;resize=499%2C377&amp;ssl=1 998w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/MLD-solomid-tassie-sw-traverse.jpg?zoom=3&amp;resize=499%2C377&amp;ssl=1 1497w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1" /></a><p class="wp-caption-text">Sheltered campsite in the low-lying scrub of <a href="https://www.thehikinglife.com/2016/05/southwest-tasmania-traverse-stage-1-the-west-coast/">Tasmania&#8217;s remote southwestern coastline</a> (Feb, 2016).</p></div>
+<ul>
+<li><span style="text-decoration: underline;"><em>Preparation</em></span>: Have your shelter at the top of your pack ready for immediate deployment. If you are heading into areas known for inclement conditions, make sure you have plenty of practice erecting your tent or tarp quickly. You don’t want to be faffing about with poles and guylines when its raining cats and dogs.</li>
+</ul>
+<ul>
+<li><span style="text-decoration: underline;"><em>Consider Waiting</em></span>:  Often deluges don&#8217;t last more than 20 or 30 minutes. If it&#8217;s really coming down and you suspect that the storm may pass quickly, consider biding your time under a nearby tree (<strong><em>Two Points to Note</em></strong>: 1. Trees aren&#8217;t always around when you need them, and; 2. This would be a good moment to break out the umbrella). Make the most of your wait by preparing stakes and poles. If its chilly, put on an extra layer, have a snack and do some pushups.</li>
+</ul>
+<ul>
+<li><span style="text-decoration: underline;"><em>Before Entry</em></span>: Fill up your water bottles, double check all the stakes are well set, pee if necessary and just before you are about to enter, quickly get out of your wet clothes and footwear; this last part can be done in your shelter&#8217;s vestibule if it has one.</li>
+</ul>
+<ul>
+<li><span style="text-decoration: underline;"><em>Inside Your Shelter</em></span>: Dry yourself, put on some warm clothes and make sure your wet items are separate from your dry stuff (once again, a vestibule is the ideal place to store wet items &#8211; see <strong>#11</strong> below for exceptions). After you have settled in, try to avoid touching the walls in order to minimize condensation. Depending on design of the shelter and how hard it is raining, try to maximize ventilation by leaving the shelter&#8217;s entryway slightly open.</li>
+</ul>
+<div id="attachment_67684" style="width: 513px" class="wp-caption aligncenter"><a href="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/P1050159.jpg"><img class="wp-image-67684" src="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/P1050159-1024x768.jpg?resize=503%2C380" alt="" width="503" height="380" srcset="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/P1050159.jpg?zoom=2&amp;resize=503%2C380&amp;ssl=1 1006w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/P1050159.jpg?zoom=3&amp;resize=503%2C380&amp;ssl=1 1509w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1" /></a><p class="wp-caption-text">Tarps are hard to beat for ventilation, but don&#8217;t offer the same all-round protection  of enclosed shelters | <a href="https://www.thehikinglife.com/2016/09/sangre-de-cristo-traverse/">Sangre de Cristo Traverse</a>, Colorado, 2016.</p></div>
+<ul>
+<li><span style="text-decoration: underline;"><em>The Morning After</em></span><em>: </em>It&#8217;s still raining hard with no end in sight. Crap. If you have no choice but to continue, load all your dry items into your pack, including your tent&#8217;s inner if it has one. Then fold over the top of the bag liner, and place any wet items you won&#8217;t be wearing in plastic bags or waterproof stuff sacks on top of that. Once everything is packed, put on your shoes, waterproofs, take a deep breath, step outside and take down your shelter. Place your soaked tent or tarp in an outside pocket, or in a plastic bag at the top of your pack</li>
+</ul>
+<ul>
+<li><i><u>During the Day</u></i>: If you have a window of clear weather during the warmer hours, be sure to take the opportunity to dry out your gear. A combination of the sun&#8217;s rays plus a little breeze, will see most shelters fairly dry within 20 to 30 minutes. Do this for two reasons: 1. Dry stuff is lighter than wet stuff, and; 2. It&#8217;s a comforting feeling knowing that you have a dry shelter to get into at day&#8217;s end.</li>
+</ul>
+<div id="attachment_62364" style="width: 950px" class="wp-caption aligncenter"><a href="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n.jpg"><img class="size-large wp-image-62364" src="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n-1024x537.jpg?resize=940%2C493" alt="" width="940" height="493" srcset="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n.jpg?resize=1024%2C537&amp;ssl=1 1024w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n.jpg?resize=300%2C157&amp;ssl=1 300w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n.jpg?resize=500%2C262&amp;ssl=1 500w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2010/10/12292762_1708534049433110_1277835324_n.jpg?w=1080&amp;ssl=1 1080w" sizes="(max-width: 940px) 100vw, 940px" data-recalc-dims="1" /></a><p class="wp-caption-text">Taking in a gorgeous sunset during a rare (and much appreciated) dry afternoon | Arthur Range Traverse, Tasmania, 2015.</p></div>
+<p><strong>11.  <span style="text-decoration: underline;">Drying Clothes:</span></strong> There are certain lightweight, direct-against-the-skin items that it&#8217;s always nice to have dry at the beginning of the hiking day. As best I can, I try to dry these items overnight using the following techniques:</p>
+<ul>
+<li><em><span style="text-decoration: underline;">Gloves</span> &#8211; </em>I put directly against my head underneath my beanie.</li>
+<li><em><span style="text-decoration: underline;">Wet socks</span> &#8211; </em> I place down my long johns.</li>
+<li><em><span style="text-decoration: underline;">Hiking shirt</span> &#8211; </em> I will either wear over the top of a thin merino wool t-shirt or fleece, or alternatively (if it&#8217;s soaked), place it between my sleeping mat and the shelter floor.</li>
+<li><em><span style="text-decoration: underline;">Note</span>:</em> I usually avoid putting wet items directly against my sleeping bag/quilt, as the moisture can compromise the bag&#8217;s insulation.</li>
+</ul>
+<p><strong>12.  <span style="text-decoration: underline;">Attitude</span>:</strong> Once you have the gear and experience required to hike safely in cold and wet conditions, the key is perspective. Yes, the conditions are challenging, but moaning and complaining won’t improve them. Stay positive by viewing such times as stepping stones rather than stumbling blocks; learning opportunities provided by Mother Nature that will ultimately help you to improve your backcountry skill set.</p>
+<div id="attachment_67701" style="width: 950px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg"><img class="wp-image-67701 size-large" src="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading-1024x609.jpg?resize=940%2C559" alt="" width="940" height="559" srcset="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg?resize=1024%2C609&amp;ssl=1 1024w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg?resize=300%2C178&amp;ssl=1 300w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg?resize=768%2C457&amp;ssl=1 768w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg?resize=500%2C297&amp;ssl=1 500w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/06/malto-wading.jpg?w=1880&amp;ssl=1 1880w" sizes="(max-width: 940px) 100vw, 940px" data-recalc-dims="1" /></a><p class="wp-caption-text">Greg &#8220;Malto&#8221; Gressel trying to maintain a positive perspective (with mixed results), while wading through the appropriately named &#8220;Duck Hole.&#8221;</p></div>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-67677" class="share-facebook sd-button share-icon" href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-67677" class="share-twitter sd-button share-icon" href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-end"></li></ul></div></div></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-utility">
+<div class="meta-info-wrap">
+			<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://www.thehikinglife.com/category/health-safety/" rel="category tag">Health &amp; Safety</a>, <a href="https://www.thehikinglife.com/category/backpacking-skills/" rel="category tag">Skills</a>, <a href="https://www.thehikinglife.com/category/blog/" rel="category tag">The Hiking Life Blog</a>			</span>
+			<span class="tag-links">
+<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="https://www.thehikinglife.com/tag/adirondacks/" rel="tag">Adirondacks</a>, <a href="https://www.thehikinglife.com/tag/backpacking/" rel="tag">Backpacking</a>, <a href="https://www.thehikinglife.com/tag/camping/" rel="tag">Camping</a>, <a href="https://www.thehikinglife.com/tag/cold-and-wet-weather/" rel="tag">Cold and Wet Weather</a>, <a href="https://www.thehikinglife.com/tag/fiordland/" rel="tag">Fiordland</a>, <a href="https://www.thehikinglife.com/tag/hiking/" rel="tag">Hiking</a>, <a href="https://www.thehikinglife.com/tag/montbell/" rel="tag">Montbell</a>, <a href="https://www.thehikinglife.com/tag/mountain-laurel-designs/" rel="tag">Mountain Laurel Designs</a>, <a href="https://www.thehikinglife.com/tag/patagonia/" rel="tag">Patagonia</a>, <a href="https://www.thehikinglife.com/tag/sarek-national-park/" rel="tag">Sarek National Park</a>, <a href="https://www.thehikinglife.com/tag/tasmania/" rel="tag">Tasmania</a>, <a href="https://www.thehikinglife.com/tag/tierra-del-fuego/" rel="tag">Tierra Del Fuego</a>			</span>
+<span class="permalink-icon"><a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" title="Permalink to Tips for Hiking in Cold and Wet Weather" rel="bookmark">permalink</a></span></div><!-- .entry-meta-icons -->
+
+	</footer><!-- .entry-utility -->
+</article><!-- #post-67677 -->
+
+				<nav id="nav-below" class="navigation">
+				<h3 class="assistive-text">Post navigation</h3>
+					<div class="nav-previous"><a href="https://www.thehikinglife.com/2017/05/hydration-tips-for-hikers/" rel="prev"><span class="meta-nav">&larr;</span> Hydration Tips for Hikers</a></div>
+				<div class="nav-next"><a href="https://www.thehikinglife.com/2017/06/a-natural-progression/" rel="next">A Natural Progression <span class="meta-nav">&rarr;</span></a></div>
+				</nav><!-- #nav-above -->
+
+
+	<div id="comments">
+
+		<hr class='comments-hr' />
+		<header id="comments-title">
+		<h3>Comments</h3>
+				<h4>
+<em>Tips for Hiking in Cold and Wet Weather</em> &#8212; 16 Comments		</h4>
+		</header>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-10102" >
+		<article id="comment-10102" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/e42ba9f1a46c15d36cd56423fe279d01?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e42ba9f1a46c15d36cd56423fe279d01?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Brian Renwick</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10102"><time pubdate datetime="2017-06-01T19:00:25+00:00">June 1, 2017 at 7:00 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Great post, with lots of useful tips. One to add, keep a few lightweight plastic bread bags handy for pulling on over your socks and/or gloves to keep out the wind and water/sleet/snow. I see more and more trampers using them here in New Zealand. Even with frequent river fording the bags usefully help to keep your feet warm, and I have found that when your laces are kept fairly tight they don&#8217;t fill up with water, a bit like neoprene dive boots.</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10102#respond' onclick='return addComment.moveForm( "comment-10102", "10102", "respond", "67677" )' aria-label='Reply to Brian Renwick'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-10103" >
+		<article id="comment-10103" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/9e3875d8642631d0341fe38569257348?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/9e3875d8642631d0341fe38569257348?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Gringo</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10103"><time pubdate datetime="2017-06-01T19:38:22+00:00">June 1, 2017 at 7:38 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>I would add a hot water bottle to the drying technique. Pour hot water into a nalgene, wrap wet socks, gloves, or clothes around the bottle, and watch them steam dry</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10103#respond' onclick='return addComment.moveForm( "comment-10103", "10103", "respond", "67677" )' aria-label='Reply to Gringo'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-10107" >
+		<article id="comment-10107" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/58158fc29be02ffc94e3938860deab6e?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/58158fc29be02ffc94e3938860deab6e?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Easyrider</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10107"><time pubdate datetime="2017-06-01T22:18:49+00:00">June 1, 2017 at 10:18 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Ahh.. great to see some Adirondack photos in there. I did the Trans-Adk last October after coming off the CDT. Definitely had better weather. It was beautiful with all the fall colors coming out. Nice post and happy trails.</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10107#respond' onclick='return addComment.moveForm( "comment-10107", "10107", "respond", "67677" )' aria-label='Reply to Easyrider'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="li-comment-10115" >
+		<article id="comment-10115" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Cam</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10115"><time pubdate datetime="2017-06-02T09:07:30+00:00">June 2, 2017 at 9:07 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>We definitely had a couple of very wet days, but as you say, the colours at that time of year in the Adirondacks are incredible.</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10115#respond' onclick='return addComment.moveForm( "comment-10115", "10115", "respond", "67677" )' aria-label='Reply to Cam'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-10110" >
+		<article id="comment-10110" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Ed</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10110"><time pubdate datetime="2017-06-02T02:32:14+00:00">June 2, 2017 at 2:32 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Hi, good post. Familiar thoughts here!<br />
+Only the shelter. I have much experience in wet and windy places in early spring, winter and late autumn, like GB, lake district, Lapland, Sarek, Schotland etc. I&#8217;m very happy with my laser competition2. I like its more spacy than the 1. You can life in it a day or two when there is too much rain and storm.<br />
+My qustion: how do you do it in this conditions with just a tarp or one layer tent? Sarek or Schotland without a good bathtub&#8230;&#8230;I don&#8217;t know. The knowledge the shelter can be much lighter is tempting. Very curious.<br />
+Ed</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10110#respond' onclick='return addComment.moveForm( "comment-10110", "10110", "respond", "67677" )' aria-label='Reply to Ed'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="li-comment-10116" >
+		<article id="comment-10116" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Cam</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10116"><time pubdate datetime="2017-06-02T11:08:15+00:00">June 2, 2017 at 11:08 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Hi Ed,</p>
+<p>I think if you&#8217;re going to go with a lighter/floorless shelter in those sort of areas, there has to be an even greater emphasis placed on campsite selection. You want to be very sure that your chosen site drains well. Sometimes this might mean camping in a spot that&#8217;s a little more exposed (e.g. on a knoll). That being the case, you have to know that your shelter of choice will hold up well in strong winds if need be (e.g. MLD Trailstar, Solomid and Duomid). </p>
+<p>Cheers,</p>
+<p>Cam</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10116#respond' onclick='return addComment.moveForm( "comment-10116", "10116", "respond", "67677" )' aria-label='Reply to Cam'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment even depth-3" id="li-comment-10139" >
+		<article id="comment-10139" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Ed</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10139"><time pubdate datetime="2017-06-03T12:40:18+00:00">June 3, 2017 at 12:40 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Hi Cam,<br />
+Sure, carfully selecting your pitch is important. A bit of wind nice to avoid condensation.<br />
+Do you use a bathtub floor in combination with a tarp in these conditions?<br />
+I don&#8217;t like lose laying gear with just using a tarp. But maybe not to do that is mindset thing 😉<br />
+Cheers,<br />
+Ed</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10139#respond' onclick='return addComment.moveForm( "comment-10139", "10139", "respond", "67677" )' aria-label='Reply to Ed'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor odd alt depth-4" id="li-comment-10140" >
+		<article id="comment-10140" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Cam</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10140"><time pubdate datetime="2017-06-03T13:18:06+00:00">June 3, 2017 at 1:18 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Hi Ed,</p>
+<p>In regions prone to inclement conditions, I generally prefer a lightweight enclosed shelter like the Mids, rather than a tarp. During the height of midge/bug season, I&#8217;d also take a bivy (with bugnet window) or an attachable inner with bathtub floor for sanity&#8217;s sake. </p>
+<p>I should note that the tarp photo in the article was taken on a traverse of Colorado&#8217;s Sangre de Cristo range. During the hike I did  encounter some very heavy storms, however, generally speaking that area doesn&#8217;t receive the same amount of precipitation (or bugs) as places such as Sarek, Scotland and South Island of NZ.</p>
+<p>Cheers,</p>
+<p>Cam</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10140#respond' onclick='return addComment.moveForm( "comment-10140", "10140", "respond", "67677" )' aria-label='Reply to Cam'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment even depth-5" id="li-comment-10988" >
+		<article id="comment-10988" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a8be9abc5c4139240a4324ec98cdbd0c?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn"><a href='http://www.edsfietstechniek.nl' rel='external nofollow' class='url'>Ed</a></span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10988"><time pubdate datetime="2017-08-01T12:48:33+00:00">August 1, 2017 at 12:48 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Hi Cam,</p>
+<p>I just got a SMD Lunar Solo. See how that thing turns out.</p>
+<p>Cheers,</p>
+<p>Ed</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10988#respond' onclick='return addComment.moveForm( "comment-10988", "10988", "respond", "67677" )' aria-label='Reply to Ed'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-10113" >
+		<article id="comment-10113" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/78bd0298fcf6b60b89a8651a5ce9ccbf?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/78bd0298fcf6b60b89a8651a5ce9ccbf?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">eddy de wilde</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10113"><time pubdate datetime="2017-06-02T07:25:53+00:00">June 2, 2017 at 7:25 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Sound advise Cam,&#8217;just like to add something to attitude. Foremost thought is self preservation over comfort. Get back into your wet clothes in the morning &#8211; your dry ones are your survival gear. It&#8217;s uncomfortable but not as bad as the prospect of no dry clothes left. You are right Cam about wool, wring it and fling it to dispel as much water as you can, once on it quickly takes on your body temperature. Another point cold feet can take a long time to warm, making a hot water bottle will speed this up. Best wishes.</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10113#respond' onclick='return addComment.moveForm( "comment-10113", "10113", "respond", "67677" )' aria-label='Reply to eddy de wilde'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="li-comment-10114" >
+		<article id="comment-10114" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Cam</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10114"><time pubdate datetime="2017-06-02T09:02:44+00:00">June 2, 2017 at 9:02 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Thanks for your comment. Being safe is always the top priority; that&#8217;s the principal focus of the entire article. Naturally you get into your hiking clothes first thing in the morning; however, if they are a little drier than they were at the end of the previous day, that strikes me as being a good thing!</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10114#respond' onclick='return addComment.moveForm( "comment-10114", "10114", "respond", "67677" )' aria-label='Reply to Cam'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-10142" >
+		<article id="comment-10142" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/64d2130077af8b794849a45db8ed659a?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/64d2130077af8b794849a45db8ed659a?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn"><a href='http://prettyeasytoremember.blogspot.com' rel='external nofollow' class='url'>LarryBoy</a></span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10142"><time pubdate datetime="2017-06-03T23:12:02+00:00">June 3, 2017 at 11:12 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Oh and make sure you walk right through the first big puddle you see. Much better than trying to do the awkward, pointless dance for an hour trying to keep your feet dry (spoiler &#8211; they get wet eventually anyhow). Also keeps you from eroding the sides of the trail.</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10142#respond' onclick='return addComment.moveForm( "comment-10142", "10142", "respond", "67677" )' aria-label='Reply to LarryBoy'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-10217" >
+		<article id="comment-10217" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/628dc0684b7d11dbc9ad199ffdad086b?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/628dc0684b7d11dbc9ad199ffdad086b?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn"><a href='http://www.solarbackpacksource.com' rel='external nofollow' class='url'>Outdoor Enthuisiast</a></span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-10217"><time pubdate datetime="2017-06-08T09:20:43+00:00">June 8, 2017 at 9:20 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>This is a great blog for tips when hiking in inclement weather.  We have a group of Scouts from our town who have just hiked to Pikes Peak.  Out of 28 boys 6 made it all the way to the top.  Some had to turn back because of weather.  And, overnight they had a snow storm, which wrecked havoc.  They and their sponsors are having a great time, even with the unexpected, which is really expected.  Your tips are really great to have handy!</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=10217#respond' onclick='return addComment.moveForm( "comment-10217", "10217", "respond", "67677" )' aria-label='Reply to Outdoor Enthuisiast'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-12080" >
+		<article id="comment-12080" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/7ea4816f192421eecb60a575bd40b34d?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7ea4816f192421eecb60a575bd40b34d?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Blake</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-12080"><time pubdate datetime="2017-10-26T13:13:09+00:00">October 26, 2017 at 1:13 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>My question is, how exactly is one supposed to not sweat while hiking? Im ok if its chilly and flat, but if therrs any degree of incline, I sweat if im climbing faster than 1/4 mile an hour</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=12080#respond' onclick='return addComment.moveForm( "comment-12080", "12080", "respond", "67677" )' aria-label='Reply to Blake'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="li-comment-12081" >
+		<article id="comment-12081" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c3d9be70a928a5ae04f15c4d702abba?s=64&#038;d=mm&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /><span class="fn">Cam</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-12081"><time pubdate datetime="2017-10-26T18:54:05+00:00">October 26, 2017 at 6:54 pm</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>In the sort of conditions I am addressing in the article, it&#8217;s a question of constantly monitoring yourself and removing or adding layers accordingly. Multiple lighter layers (e.g. merino wool zip neck base, wind shirt, Fleece or synthetic mid layer, lightweight rain jacket with pit zips) are ideal for cold and wet environments, because they provide the hiker with a greater degree of versatility. For heavy sweaters, umbrellas are hard to beat when it comes to ventilation.</p>
+<p>Cheers,</p>
+<p>Cam</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=12081#respond' onclick='return addComment.moveForm( "comment-12081", "12081", "respond", "67677" )' aria-label='Reply to Cam'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-13556" >
+		<article id="comment-13556" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+<img alt='' src='https://secure.gravatar.com/avatar/16e57c77fed967b6d4d91d53d4dd1210?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/16e57c77fed967b6d4d91d53d4dd1210?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' /><span class="fn">Roger</span> on <a href="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/#comment-13556"><time pubdate datetime="2018-03-03T05:03:58+00:00">March 3, 2018 at 5:03 am</time></a> <span class="says">said:</span>				</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Pee bottle. You mentioned having one before getting in the tent. Well down here in Tassie I have spent some long periods in the tent. If you want to stay warm and dry you dont want to be getting out of that nice tent.  Another trick if tent bound and need to get out for no 2, go bottomless.  Just your warm top layer and rain jacket on top.  Then you only have to dry your legs when you get back. Can be a bit breezy. Taz</p>
+</div>
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/?replytocom=13556#respond' onclick='return addComment.moveForm( "comment-13556", "13556", "respond", "67677" )' aria-label='Reply to Roger'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/06/tips-for-hiking-in-cold-and-wet-weather/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://www.thehikinglife.com/the-hiking-life-2/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='67677' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2d1fc244e8" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="77"/></p>			</form>
+			</div><!-- #respond -->
+	</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+		</div><!-- #container_wrap -->
+
+	<div id="sidebar_wrap_right" class="right-1-col equal_height">
+		<div id="primary-widget-area" class="widget-area aspen-clear" role="complementary">
+<aside id="addthis_tool_by_class_name_widget-2" class="widget widget_addthis_tool_by_class_name_widget"><!-- Widget added by an AddThis plugin --><!-- widget name: AddThis Tool --><h3 class="widget-title"></h3><div class="addthis_horizontal_follow_toolbox addthis_tool" ></div><!-- End of widget --></aside><aside id="search-4" class="widget widget_search"><form role="search" style="background:transparent;" method="get" class="searchform" action="https://www.thehikinglife.com/" >
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="search" value="" name="s" id="s" placeholder="Search Site" />
+	<input class="searchformimg" type="image" src="/the-hiking-life-2/wp-content/themes/aspen/images/search_button.gif" alt="Search" />
+	</form></aside><aside id="blog_subscription-7" class="widget jetpack_subscription_widget"><h3 class="widget-title">Subscribe Via Email</h3>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-7">
+				<div id="subscribe-text"><p>Follow "The Hiking Life" and receive notification of new posts to your inbox.</p>
+</div><p>Join 7,292 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-7">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-7" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-7" />
+												<input type="submit" value="Sign Me Up" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-7]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-7'),
+					input = d.getElementById('subscribe-field-blog_subscription-7'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</aside><aside id="text-58" class="widget widget_text"><h3 class="widget-title">November Sales</h3>			<div class="textwidget"><p><script type="text/javascript" src="//www.avantlink.com/link.php?ml=3412&amp;p=127771&amp;pw=153907&amp;open=_blank"></script></p>
+</div>
+		</aside><aside id="text-57" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="//www.avantlink.com/link.php?ml=28937&amp;p=127771&amp;pw=153907&amp;open=_blank"></script></p>
+</div>
+		</aside><aside id="media_image-9" class="widget widget_media_image"><h3 class="widget-title">The Hidden Tracks</h3><a href="https://amzn.to/2DzJq5B"><img width="243" height="300" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/11/71AuIZuYKlL.jpg?fit=243%2C300&amp;ssl=1" class="image wp-image-71260  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/11/71AuIZuYKlL.jpg?w=964&amp;ssl=1 964w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/11/71AuIZuYKlL.jpg?resize=243%2C300&amp;ssl=1 243w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/11/71AuIZuYKlL.jpg?resize=768%2C950&amp;ssl=1 768w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/11/71AuIZuYKlL.jpg?resize=828%2C1024&amp;ssl=1 828w" sizes="(max-width: 243px) 100vw, 243px" /></a></aside><aside id="media_image-7" class="widget widget_media_image"><h3 class="widget-title">Wanderlust: Hiking on Legendary Trails</h3><a href="http://amzn.to/2E2tb1t"><img width="300" height="367" src="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/wanderlust_eng_cover_rgb.jpg?fit=300%2C367&amp;ssl=1" class="image wp-image-69422  attachment-300x367 size-300x367" alt="" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/wanderlust_eng_cover_rgb.jpg?w=684&amp;ssl=1 684w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/wanderlust_eng_cover_rgb.jpg?resize=245%2C300&amp;ssl=1 245w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside><aside id="media_image-8" class="widget widget_media_image"><h3 class="widget-title">Thru-Hiker Gear Guide</h3><a href="https://www.thehikinglife.com/category/thru-hiker-gear-guide/"><img width="300" height="225" src="https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/06/IMG_1210.jpg?fit=300%2C225&amp;ssl=1" class="image wp-image-70304  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/06/IMG_1210.jpg?w=657&amp;ssl=1 657w, https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/06/IMG_1210.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/06/IMG_1210.jpg?resize=400%2C300&amp;ssl=1 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Cam</span> on <a href="https://www.thehikinglife.com/2018/03/toubkal-circuit-independent-hikers-guide/#comment-27514">Toubkal Circuit: Independent Hiker&#8217;s Guide</a></li><li class="recentcomments"><span class="comment-author-link">Tanja</span> on <a href="https://www.thehikinglife.com/2018/03/toubkal-circuit-independent-hikers-guide/#comment-27513">Toubkal Circuit: Independent Hiker&#8217;s Guide</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://justbeyondtheparkinglot.com/' rel='external nofollow' class='url'>Matt</a></span> on <a href="https://www.thehikinglife.com/2018/11/50-crappy-but-practical-christmas-gifts-for-hikers/#comment-27510">50 Crappy (but practical) Christmas Gifts for Hikers</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://www.facebook.com/Andrew6641' rel='external nofollow' class='url'>Andrew Short</a></span> on <a href="https://www.thehikinglife.com/2018/11/50-crappy-but-practical-christmas-gifts-for-hikers/#comment-27501">50 Crappy (but practical) Christmas Gifts for Hikers</a></li><li class="recentcomments"><span class="comment-author-link">Cam</span> on <a href="https://www.thehikinglife.com/2015/05/review-opsak-storage-bags/#comment-27489">Review: OPSAK Storage Bags</a></li></ul></aside><aside id="media_image-5" class="widget widget_media_image"><h3 class="widget-title">Hiking Guide Books</h3><a href="http://amzn.to/2uxtKej"><img width="300" height="204" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/07/collage-1.png?fit=300%2C204&amp;ssl=1" class="image wp-image-68097  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/07/collage-1.png?w=736&amp;ssl=1 736w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/07/collage-1.png?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2017/07/collage-1.png?resize=442%2C300&amp;ssl=1 442w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside><aside id="text-44" class="widget widget_text"><h3 class="widget-title">Instagram</h3>			<div class="textwidget"><div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_fixed_height  sbi_col_1 sbi_width_resp" style="max-width: 640px; width:100%; height:450px; background-color: #ffffff; padding-bottom: 8px; " data-id="1960126249" data-num="2" data-res="auto" data-cols="1" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;false&quot;,&quot;feedID&quot;: &quot;1960126249&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;4&quot;,&quot;mid&quot;: &quot;M2E4MWE5Zg==&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;false&quot;,&quot;callback&quot;: &quot;OTg0YjBiMGI1YzNm.NGY2MjhmOTY3NGEwZTdhYTMyZjI=&quot;, &quot;sbiHeaderCache&quot;: &quot;false&quot;}'><div id="sbi_images" style="padding: 4px;"><div class="sbi_loader"></div></div><div id="sbi_load" class="sbi_hidden"><div class="sbi_follow_btn"><a href="https://www.instagram.com/" style="" target="_blank"><i class="fa fab fa-instagram"></i>Follow on Instagram</a></div></div></div> </a></div>
+		</aside><aside id="media_image-6" class="widget widget_media_image"><h3 class="widget-title">Books for Hikers</h3><a href="https://www.thehikinglife.com/2017/12/books-for-hikers-and-backpackers-revised-updated/"><img width="300" height="184" src="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?fit=300%2C184&amp;ssl=1" class="image wp-image-69318  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?resize=300%2C184&amp;ssl=1 300w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?resize=768%2C470&amp;ssl=1 768w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?resize=1024%2C627&amp;ssl=1 1024w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2018/01/Hiking-Library-photo-copy-2.jpg?resize=490%2C300&amp;ssl=1 490w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3><form action="https://www.thehikinglife.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="2">100 Classic Multi-Day Hikes&nbsp;&nbsp;(105)</option>
+	<option class="level-0" value="3">20 Classic Day Hikes&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="489">Andorra&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="24">Appalachian Trail&nbsp;&nbsp;(38)</option>
+	<option class="level-0" value="490">Argentina&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="491">Australia&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="492">Bolivia&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1363">Books&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="493">Canada&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="494">Chile&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="495">China&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="964">Colombia&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="4">Community&nbsp;&nbsp;(28)</option>
+	<option class="level-0" value="25">Continental Divide Trail&nbsp;&nbsp;(32)</option>
+	<option class="level-0" value="26">Copper Canyon Traverse&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="27">Cordillera Blanca Traverse&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="496">Costa Rica&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="498">Ecuador&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="499">Egypt&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="500">England&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="28">Florida Trail&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="5">Food &amp; Drink&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="501">France&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="7">Gear&nbsp;&nbsp;(51)</option>
+	<option class="level-0" value="8">Gear Lists&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="29">Great Divide Trail&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="502">Greece&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="9">Health &amp; Safety&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="504">How-Tos&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="505">Iceland&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="506">India&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="30">International Appalachian Trail&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="507">Iran&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="508">Ireland&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="509">Italy&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="510">Japan&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="511">Jordan&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="10">Journals&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="11">Leave No Trace&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="12">Media&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="512">Mexico&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="513">Mongolia&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="514">Morocco&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="13">Musings&nbsp;&nbsp;(60)</option>
+	<option class="level-0" value="515">Nepal&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="516">New Zealand&nbsp;&nbsp;(16)</option>
+	<option class="level-0" value="517">Nicaragua&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="518">Norway&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="14">Ouachita Trail&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="15">Pacific Crest Trail&nbsp;&nbsp;(56)</option>
+	<option class="level-0" value="16">Pacific Northwest Trail&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="519">Pakistan&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="520">Panama&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="521">Peru&nbsp;&nbsp;(16)</option>
+	<option class="level-0" value="522">Poland&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="523">Russia&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="524">Scotland&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="17">Sierra High Route&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="18">Skills&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="19">Southeastern Serpentine Trail&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="20">Southwestern Horsehoe&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="526">Spain&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="21">Superior Hiking Trail&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="527">Sweden&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="528">Switzerland&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="22">The Hiking Life Blog&nbsp;&nbsp;(370)</option>
+	<option class="level-0" value="1411">Thru-Hiker Gear Guide&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="529">Tibet&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="23">Trails&nbsp;&nbsp;(52)</option>
+	<option class="level-0" value="530">Turkey&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="531">United States&nbsp;&nbsp;(41)</option>
+	<option class="level-0" value="532">Wales&nbsp;&nbsp;(1)</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://www.thehikinglife.com/2018/11/'> November 2018 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2018/10/'> October 2018 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2018/09/'> September 2018 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2018/07/'> July 2018 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2018/06/'> June 2018 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2018/05/'> May 2018 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2018/04/'> April 2018 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2018/03/'> March 2018 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2018/02/'> February 2018 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2018/01/'> January 2018 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2017/12/'> December 2017 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2017/11/'> November 2017 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2017/10/'> October 2017 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2017/08/'> August 2017 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2017/07/'> July 2017 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2017/06/'> June 2017 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2017/05/'> May 2017 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2017/04/'> April 2017 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2017/03/'> March 2017 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2017/02/'> February 2017 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2017/01/'> January 2017 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2016/12/'> December 2016 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2016/11/'> November 2016 &nbsp;(9)</option>
+	<option value='https://www.thehikinglife.com/2016/10/'> October 2016 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2016/09/'> September 2016 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2016/08/'> August 2016 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2016/07/'> July 2016 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2016/06/'> June 2016 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2016/05/'> May 2016 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2016/04/'> April 2016 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2016/01/'> January 2016 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2015/12/'> December 2015 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2015/11/'> November 2015 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2015/10/'> October 2015 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2015/08/'> August 2015 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2015/07/'> July 2015 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2015/06/'> June 2015 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2015/05/'> May 2015 &nbsp;(11)</option>
+	<option value='https://www.thehikinglife.com/2015/04/'> April 2015 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2015/03/'> March 2015 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2015/02/'> February 2015 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2015/01/'> January 2015 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2014/12/'> December 2014 &nbsp;(10)</option>
+	<option value='https://www.thehikinglife.com/2014/11/'> November 2014 &nbsp;(7)</option>
+	<option value='https://www.thehikinglife.com/2014/10/'> October 2014 &nbsp;(11)</option>
+	<option value='https://www.thehikinglife.com/2014/09/'> September 2014 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2014/08/'> August 2014 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2014/07/'> July 2014 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2014/06/'> June 2014 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2014/05/'> May 2014 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2014/02/'> February 2014 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2014/01/'> January 2014 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2013/12/'> December 2013 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2013/11/'> November 2013 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2013/10/'> October 2013 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2013/09/'> September 2013 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2013/08/'> August 2013 &nbsp;(4)</option>
+	<option value='https://www.thehikinglife.com/2013/07/'> July 2013 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2013/06/'> June 2013 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2013/05/'> May 2013 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2013/03/'> March 2013 &nbsp;(3)</option>
+	<option value='https://www.thehikinglife.com/2013/02/'> February 2013 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2013/01/'> January 2013 &nbsp;(11)</option>
+	<option value='https://www.thehikinglife.com/2012/12/'> December 2012 &nbsp;(16)</option>
+	<option value='https://www.thehikinglife.com/2012/11/'> November 2012 &nbsp;(12)</option>
+	<option value='https://www.thehikinglife.com/2012/10/'> October 2012 &nbsp;(12)</option>
+	<option value='https://www.thehikinglife.com/2012/09/'> September 2012 &nbsp;(15)</option>
+	<option value='https://www.thehikinglife.com/2012/08/'> August 2012 &nbsp;(13)</option>
+	<option value='https://www.thehikinglife.com/2012/07/'> July 2012 &nbsp;(6)</option>
+	<option value='https://www.thehikinglife.com/2012/06/'> June 2012 &nbsp;(18)</option>
+	<option value='https://www.thehikinglife.com/2012/05/'> May 2012 &nbsp;(26)</option>
+	<option value='https://www.thehikinglife.com/2012/03/'> March 2012 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2012/02/'> February 2012 &nbsp;(1)</option>
+	<option value='https://www.thehikinglife.com/2012/01/'> January 2012 &nbsp;(9)</option>
+	<option value='https://www.thehikinglife.com/2011/12/'> December 2011 &nbsp;(8)</option>
+	<option value='https://www.thehikinglife.com/2011/09/'> September 2011 &nbsp;(5)</option>
+	<option value='https://www.thehikinglife.com/2011/06/'> June 2011 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2011/05/'> May 2011 &nbsp;(9)</option>
+	<option value='https://www.thehikinglife.com/2011/04/'> April 2011 &nbsp;(9)</option>
+	<option value='https://www.thehikinglife.com/2011/02/'> February 2011 &nbsp;(7)</option>
+	<option value='https://www.thehikinglife.com/2010/12/'> December 2010 &nbsp;(2)</option>
+	<option value='https://www.thehikinglife.com/2010/10/'> October 2010 &nbsp;(87)</option>
+	<option value='https://www.thehikinglife.com/2010/09/'> September 2010 &nbsp;(17)</option>
+
+		</select>
+		</aside><aside id="wysiwyg_widgets_widget-4" class="widget widget_wysiwyg_widgets_widget"><!-- Widget by WYSIWYG Widgets v2.3.8 - https://wordpress.org/plugins/wysiwyg-widgets/ --><p><a href="http://www.continentaldividetrail.org/about-cdtc/cdtc-staff-and-volunteers/" target="_blank"><img class="" src="https://www.thehikinglife.com/journal/wp-content/uploads/2014/11/CDTC-trail-ambassador-final-cut-e1416508925979.jpg" alt="" width="300" height="318" /></a></p>
+<p>&nbsp;</p>
+<p><span style="color: #4d4d4d; font-size: 20px;"><strong>Sponsors</strong></span></p>
+<p><a href="http://montbell.com"><img class=" wp-image-60503 alignnone" src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2015/02/montbell-22-300x198.jpg" alt="montbell-2" width="300" height="203" /></a></p>
+<p><a href="http://www.mountainlaureldesigns.com/" target="_blank"><img class="" src="https://www.thehikinglife.com/journal/wp-content/uploads/2012/02/mountain.jpg" alt="" width="302" height="77" /></a></p>
+<p><a href="http://www.katabaticgear.com/" target="_blank"><img class="" src="https://www.thehikinglife.com/journal/wp-content/uploads/2012/02/katabaticGear.jpg" alt="" width="299" height="101" /></a></p>
+<p><a href="http://www.gossamergear.com" rel="attachment wp-att-63387"><img class="alignnone wp-image-63387 size-medium" src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2015/02/GG-Logo-01-1x3.5_600dpi_BW-300x86.jpeg" alt="GG-Logo-01-1x3.5_600dpi_BW" width="300" height="86" /></a></p>
+<p><a href="http://www.tarptent.com"><img class="alignnone wp-image-60498" src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2015/02/Tarptent-Logo-300x150.jpg" alt="Tarptent Logo" width="301" height="159" /></a></p>
+<p>&nbsp;</p>
+<!-- / WYSIWYG Widgets --></aside><aside id="top-posts-3" class="widget widget_top-posts"><h3 class="widget-title">Popular Posts</h3><ul>				<li>
+										<a href="https://www.thehikinglife.com/2018/11/50-crappy-but-practical-christmas-gifts-for-hikers/" class="bump-view" data-bump-view="tp">
+						50 Crappy (but practical) Christmas Gifts for Hikers					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2018/04/the-thru-hikers-gear-list-vol-2/" class="bump-view" data-bump-view="tp">
+						The Thru Hiker&#039;s Gear List - Vol. 2					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2017/03/a-quick-dirty-guide-to-corsicas-gr20/" class="bump-view" data-bump-view="tp">
+						A Quick &amp; Dirty Guide to Corsica&#039;s GR20					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2017/10/salkantay-trek-independent-hikers-guide/" class="bump-view" data-bump-view="tp">
+						Salkantay Trek: Independent Hiker&#039;s Guide					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2017/05/wilsons-promontory-southern-circuit/" class="bump-view" data-bump-view="tp">
+						Wilsons Promontory Southern Circuit					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2010/10/quick-and-dirty-guide-tour-du-mont-blanc/" class="bump-view" data-bump-view="tp">
+						A Quick &amp; Dirty Guide to the Tour du Mont Blanc					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2018/02/the-essential-guide-to-poncho-tarps/" class="bump-view" data-bump-view="tp">
+						The Essential Guide to Poncho Tarps					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2017/11/why-choose-a-quilt-over-a-sleeping-bag/" class="bump-view" data-bump-view="tp">
+						Why Choose a Quilt over a Sleeping Bag?					</a>
+										</li>
+								<li>
+										<a href="https://www.thehikinglife.com/2014/10/cordillera-huayhuash-circuit-peru-2014/" class="bump-view" data-bump-view="tp">
+						Cordillera Huayhuash Circuit					</a>
+										</li>
+				</ul></aside><aside id="text-42" class="widget widget_text"><h3 class="widget-title">Sunset Musings</h3>			<div class="textwidget"><iframe src="https://www.youtube.com/embed/SqwkQILNa0k" frameborder="0" allowfullscreen></iframe></a></a></div>
+		</aside><aside id="media_image-3" class="widget widget_media_image"><a href="https://www.thehikinglife.com/trip-consulting/"><img width="397" height="298" src="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2016/10/FullSizeRender-1-1.jpg?fit=397%2C298&amp;ssl=1" class="image wp-image-65584 alignnone attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2016/10/FullSizeRender-1-1.jpg?w=397&amp;ssl=1 397w, https://i1.wp.com/www.thehikinglife.com/the-hiking-life-2/wp-content/uploads/2016/10/FullSizeRender-1-1.jpg?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 397px) 100vw, 397px" /></a></aside>		</div><!-- #primary-widget-area .widget-area -->
+	</div><!-- #sidebar_wrap_right -->
+    <div class='aspen-clear'></div></div><!-- #main -->
+	<footer id="colophon" role="contentinfo">
+	  <div>
+
+		<div id="site-ig-wrap">
+		<span id="site-info">
+© 2018 The Hiking Life. All rights reserved		</span> <!-- #site-info -->
+		</div><!-- #site-ig-wrap -->
+		<div class="aspen-clear"></div>
+	  </div>
+	</footer><!-- #colophon -->
+</div><!-- #wrapper -->
+<a href="#page-top" id="page-bottom">&uarr;</a>
+<!-- Aspen Shortcodes and Widgets footer code -->
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.thehikinglife.com/the-hiking-life-2/wp-admin/admin-ajax.php";
+</script>
+	<div style="display:none">
+	<div class="grofile-hash-map-e42ba9f1a46c15d36cd56423fe279d01">
+	</div>
+	<div class="grofile-hash-map-242e1813c57d4a142d2448e1edaebffc">
+	</div>
+	<div class="grofile-hash-map-58158fc29be02ffc94e3938860deab6e">
+	</div>
+	<div class="grofile-hash-map-4c3d9be70a928a5ae04f15c4d702abba">
+	</div>
+	<div class="grofile-hash-map-a8be9abc5c4139240a4324ec98cdbd0c">
+	</div>
+	<div class="grofile-hash-map-78bd0298fcf6b60b89a8651a5ce9ccbf">
+	</div>
+	<div class="grofile-hash-map-64d2130077af8b794849a45db8ed659a">
+	</div>
+	<div class="grofile-hash-map-628dc0684b7d11dbc9ad199ffdad086b">
+	</div>
+	<div class="grofile-hash-map-7ea4816f192421eecb60a575bd40b34d">
+	</div>
+	<div class="grofile-hash-map-16e57c77fed967b6d4d91d53d4dd1210">
+	</div>
+	</div>
+<!-- Scroll Triggered Boxes v2.2.1 - https://wordpress.org/plugins/scroll-triggered-boxes/-->			<div class="stb-container stb-bottom-right-container">
+				<div class="scroll-triggered-box stb stb-61042 stb-bottom-right"
+				     id="stb-61042"
+				     style="display: none;">
+					<div class="stb-content">
+						<div class="jetpack_subscription_widget"><h2 class="widgettitle">Subscribe to THE HIKING LIFE</h2>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-486">
+				<div id="subscribe-text"></p>
+<p>Join 7000+ subscribers.</p>
+</div>					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-486">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-486" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="https://www.thehikinglife.com/2017/06/tips-for-hiking-in-cold-and-wet-weather/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="486" />
+												<input type="submit" value="Sign Me Up" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-486]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-486'),
+					input = d.getElementById('subscribe-field-486'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</div>
+					</div>
+											<span class="stb-close">&times;</span>
+									</div>
+			</div>
+			<div id="stb-overlay"></div><!-- / Scroll Triggered Box -->
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.thehikinglife.com\/2017\/06\/tips-for-hiking-in-cold-and-wet-weather\/":67677};
+	</script>
+					<div id="sharing_email" style="display: none;">
+		<form action="/2017/06/tips-for-hiking-in-cold-and-wet-weather/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lightbox_type = [""];
+var ajaxUrl = "https:\/\/www.thehikinglife.com\/the-hiking-life-2\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/lightbox/js/frontend/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-admin/admin-ajax.php?action=addthis_global_options_settings&#038;ver=4.9.8'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=4.9.8#pubid=wp-b1bb355af294dfccc809c10f1d9b7132'></script>
+<script type='text/javascript' src='https://www.avantlink.com/ale/ale.php?p=127771&#038;pw=153907'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1960126249.M2E4MWE5Zg==.OTg0YjBiMGI1YzNm.NGY2MjhmOTY3NGEwZTdhYTMyZjI=","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.1'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201848'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aspen_menu_params = {"selector":"li:has(ul) > a","selector_leaf":"li li li:not(:has(ul)) > a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/themes/aspen/js/aspenjslib.min.js?ver=1.1.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var STB_Global_Options = {"testMode":""};
+var STB_Box_Options = {"61042":{"id":61042,"title":"THL Subscribe","trigger":"percentage","triggerPercentage":60,"triggerElementSelector":"","animation":"fade","cookieTime":1,"autoHide":true,"autoShow":true,"position":"bottom-right","minimumScreenWidth":0,"unclosable":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/scroll-triggered-boxes/assets/js/script.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script async="async" type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/akismet/_inc/form.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thehikinglife.com/the-hiking-life-2/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.7'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201848.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7',blog:'65169973',post:'67677',tz:'-6',srv:'www.thehikinglife.com'} ]);
+	_stq.push([ 'clickTrackerInit', '65169973', '67677' ]);
+</script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+
+Served from: www.thehikinglife.com @ 2018-12-02 15:02:15 by W3 Total Cache
+-->

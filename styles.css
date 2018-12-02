@@ -71,22 +71,40 @@ img{
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-  color:#9d9d9d;
-  background:none;
+  color: transparent;
 }
-.nav-link , .navbar-brand{
-  cursor: pointer;
+.nav-link{
+  margin-right: 1em !important;
 }
-.nav-link{ margin-right: 1em !important;}
 .navbar-collapse{ justify-content: flex-end;}
 }
 .navbar-collapse{
  justify-content: flex-end;
 }
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+.navbar li {
+  color: #000
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 20px !important;
+  color: #233237 !important;
 
+}
+.nav-link , .navbar-brand{
+  cursor: pointer;
+  color: #000
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 20px !important;
+  color: #233237 !important;
+}
 header {
-font-size:40px;
-text-align:center;
-padding-top:20px;
-padding-bottom:30px;
+  font-size:40px;
+  text-align: center;
+  padding-top:20px;
+  padding-bottom:30px;
 }
