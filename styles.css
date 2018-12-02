@@ -47,7 +47,25 @@ p{
 img{
   width: 600px;
   height: 600px;
+
 }
 .col-md-6{
   width: 600px;
+}
+.zoom{
+   transition: transform .8s;
+   display: block;
+}
+.zoom:hover {
+    z-index: 2;
+    box-shadow: 0px 0px 200px #000000;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.5);
+    -ms-transition: all 500ms ease-in;
+    -ms-transform: scale(1.5);
+    -moz-transition: all 500ms ease-in;
+    -moz-transform: scale(1.5);
+    transition: all 500ms ease-in;
+    transform: scale(1.5);
+    background-image: url('image2.png');
 }
