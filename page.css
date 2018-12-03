@@ -1,7 +1,7 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background:rgb(234, 198, 122);
+  background:#F4E2BC;
 }
 h1 {
   font-family: 'Montserrat', sans-serif;
@@ -98,6 +98,7 @@ textarea {
   color: #233237 !important;
 }
 P.blocktext {
+  font-family: 'Montserrat', sans-serif;
   color: rgb(35, 50, 55) !important;
   margin-left:100px;
   margin-right:100px;
